@@ -10,8 +10,8 @@
   > Nama Sekolah : SMK Telkom Malang
   
   #Gambar
-  > Log In
+  
   ![Image](https://github.com/AskaIvan/Konversi-Mata-Uang/blob/master/konversi1.png)
   
-  > Home
+  
   ![Image](https://github.com/AskaIvan/Konversi-Mata-Uang/blob/master/konversi2.png)
